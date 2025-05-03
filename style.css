@@ -1,0 +1,31 @@
+  body {
+background-color:black;
+background-image:url(https://assets.folhavitoria.com.br/images/732d1d80-06f7-11ef-90fb-a1ba1b9dc80c--minified.png);
+background-repeat: no-repeat;
+background-size:cover;
+background-attachment: fixed;
+}
+  h1 {
+color: rgb(217, 104, 123);
+}
+  h2 {
+color:white;
+}
+  p {
+color: rgb(217, 104, 123);    
+}
+  a:link {
+color: rgb(217, 104, 123);
+background-color: transparent;
+text-decoration: none;
+}
+  a:visited {
+color: rgb(217, 104, 123);
+background-color: transparent;
+text-decoration: none;
+}
+  a:hover {
+color: rgb(231, 94, 117);
+background-color: transparent;
+text-decoration: underline;
+}
